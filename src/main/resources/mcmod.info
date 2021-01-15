@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dbsmoneymod",
+  "name": "Dobsinalian Money Mod",
+  "description": "Adds dobsinalian money to Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Smartheads/DBSMoneyMod",
+  "updateUrl": "",
+  "authorList": ["Robert Hutter", "Bence Horváth"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
